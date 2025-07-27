@@ -174,6 +174,8 @@ Through detailed data transformation and feature creation, this project demonstr
 
 ## Appendix
 
-- Dataset sample files  
-- Data cleaning code (`Uber_Cleaning.ipynb`)  
+- Dataset raw sample file
+- Dataset cleaned sample file  
+- Data cleaning code (`da_uber.ipynb`)
+- Power BI dashboard Reports\uber_dashbrd.pbix
 
