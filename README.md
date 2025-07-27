@@ -162,7 +162,7 @@ A historical line chart depicting annual fare counts over seven years.
 
 Together, these dashboards offer a multi-dimensional analysis across geography, time, fare characteristics, and passenger behavior—demonstrating strong skills in exploratory visualization and domain interpretation.
 
-Power BI dashboard components are included in the appendix or provided in `.pbix` format.
+Power BI dashboard components can be found at: https://drive.google.com/file/d/1APQAeNoTBlqARA0VZkZz76S18PEWCTjI/view?usp=sharing
 
 ---
 
@@ -176,5 +176,4 @@ Through detailed data transformation and feature creation, this project demonstr
 
 - Dataset sample files  
 - Data cleaning code (`Uber_Cleaning.ipynb`)  
-- Power BI Dashboard File (.pbix)
 
